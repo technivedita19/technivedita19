@@ -6,43 +6,51 @@ Welcome to my Github profile..
 
 
 I'm a B.Sc. Mathematics student , passionate about Data Analytics, business intelligence, and transforming raw data into meaningful insights.
-
 I enjoy exploring datasets, solving business problems, building interactive dashboards, and continuously improving my analytical skills.
 
 
+
+____________________________________________________________________________________________________________________________________________________________________
 
 
 Here what you'll find :
 
 
 📊 Data Analytics projects and interactive dashboard 
+
 💻 SQL queries , Advanced Excel , and Power BI visualizations
+
 🚀 My learning journey , experiments , and new discoveries
 
 
 
 
-Whether you're here to explore my projects , connect , or share ideas - you're always welcome !!!
 
-Let's connect , learn , and grow together - one dataset at a time !! ⭐  
-
-
+__________________________________________________________________________________________________________________________________________________________________
 
 Social : 
-Linedin-
+Linkedin-
 https://www.linkedin.com/in/nivedita-shukla-data/
 
 
 
+__________________________________________________________________________________________________________________________________________________________________
 
 🛠️ Technical Skills
+
 � SQL
+
 � Advanced Excel
+
 � Power Query 
+
 � Power BI 
 
 
+____________________________________________________________________________________________________________________________________________________________________
+⭐ Whether you're here to explore my projects , connect , or share ideas - you're always welcome !!!
 
+⭐ Let's connect , learn , and grow together - one dataset at a time !!  
 
 ⭐ Thanks for visiting my profile! Let's connect, learn, and grow together.
 <!--
